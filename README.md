@@ -19,3 +19,16 @@ This project explores basic principles behind password security and brute-force 
 - Add entropy calculation
 - Add common password blacklist
 - Improve strength scoring algorithm
+
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/csihan826/password-strength-checker.git
+
+2. Navigate into the folder:
+   cd password-strength-checker
+
+3. Run the script:
+   python password_checker.py
+
+Then enter a password when prompted.
